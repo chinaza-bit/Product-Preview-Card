@@ -22,7 +22,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Product-Preview-Card](https://chinaza-bit.github.io/Product-Preview-Card)
 
 ## My process
 First: I fixed my html code, give class name and id to some element for proper styling
@@ -59,6 +59,6 @@ looking forward to start applying AI to search for code solution
 
 ## Author
 
-- Website - [Samuel](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Samuel](https://sam-six-theta.vercel.app)
+- Frontend Mentor - [@chinaza-bit](https://www.frontendmentor.io/profile/chinaza-bit)
+- Twitter - [@chimunaza](https://www.twitter.com/chimunaza)
